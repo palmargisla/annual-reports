@@ -1,0 +1,830 @@
+year,category,amount,municipality
+2013,Atvinnumál,-1000000.0,Garðabær
+2014,Atvinnumál,-1000000.0,Garðabær
+2015,Atvinnumál,-1000000.0,Garðabær
+2016,Atvinnumál,-900000.0,Garðabær
+2017,Atvinnumál,-900000.0,Garðabær
+2018,Atvinnumál,-225000.0,Garðabær
+2019,Atvinnumál,0.0,Garðabær
+2020,Atvinnumál,0.0,Garðabær
+2021,Atvinnumál,0.0,Garðabær
+2022,Atvinnumál,0.0,Garðabær
+2013,Brunamál og almannavarnir,-75000000.0,Garðabær
+2014,Brunamál og almannavarnir,-91000000.0,Garðabær
+2015,Brunamál og almannavarnir,-95000000.0,Garðabær
+2016,Brunamál og almannavarnir,-95632000.0,Garðabær
+2017,Brunamál og almannavarnir,-104926000.0,Garðabær
+2018,Brunamál og almannavarnir,-111565000.0,Garðabær
+2019,Brunamál og almannavarnir,-119862000.0,Garðabær
+2020,Brunamál og almannavarnir,-123468000.0,Garðabær
+2021,Brunamál og almannavarnir,-154944000.0,Garðabær
+2022,Brunamál og almannavarnir,-172550000.0,Garðabær
+2013,Fjármagnsliðir (nettó),0.0,Garðabær
+2014,Fjármagnsliðir (nettó),0.0,Garðabær
+2015,Fjármagnsliðir (nettó),0.0,Garðabær
+2016,Fjármagnsliðir (nettó),815623000.0,Garðabær
+2017,Fjármagnsliðir (nettó),813910000.0,Garðabær
+2018,Fjármagnsliðir (nettó),943482000.0,Garðabær
+2019,Fjármagnsliðir (nettó),834147000.0,Garðabær
+2020,Fjármagnsliðir (nettó),654427000.0,Garðabær
+2021,Fjármagnsliðir (nettó),755616000.0,Garðabær
+2022,Fjármagnsliðir (nettó),1172552000.0,Garðabær
+2013,Fjármunatekjur og fjármagnsgjöld,-896000000.0,Garðabær
+2014,Fjármunatekjur og fjármagnsgjöld,-665000000.0,Garðabær
+2015,Fjármunatekjur og fjármagnsgjöld,-784000000.0,Garðabær
+2016,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2017,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2018,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2019,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2020,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2021,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2022,Fjármunatekjur og fjármagnsgjöld,0.0,Garðabær
+2013,Fræðslu- og uppeldismál,-4244000000.0,Garðabær
+2014,Fræðslu- og uppeldismál,-4702000000.0,Garðabær
+2015,Fræðslu- og uppeldismál,-5240000000.0,Garðabær
+2016,Fræðslu- og uppeldismál,-5678873000.0,Garðabær
+2017,Fræðslu- og uppeldismál,-6407494000.0,Garðabær
+2018,Fræðslu- og uppeldismál,-6893928000.0,Garðabær
+2019,Fræðslu- og uppeldismál,-7491761000.0,Garðabær
+2020,Fræðslu- og uppeldismál,-8424756000.0,Garðabær
+2021,Fræðslu- og uppeldismál,-9451498000.0,Garðabær
+2022,Fræðslu- og uppeldismál,-10945083000.0,Garðabær
+2013,Félagsþjónusta,-868000000.0,Garðabær
+2014,Félagsþjónusta,-975000000.0,Garðabær
+2015,Félagsþjónusta,-1187000000.0,Garðabær
+2016,Félagsþjónusta,-1348003000.0,Garðabær
+2017,Félagsþjónusta,-1535914000.0,Garðabær
+2018,Félagsþjónusta,-1870906000.0,Garðabær
+2019,Félagsþjónusta,-1999793000.0,Garðabær
+2020,Félagsþjónusta,-2873008000.0,Garðabær
+2021,Félagsþjónusta,-2684376000.0,Garðabær
+2022,Félagsþjónusta,-3036089000.0,Garðabær
+2013,Heilbrigðismál,0.0,Garðabær
+2014,Heilbrigðismál,0.0,Garðabær
+2015,Heilbrigðismál,-6000000.0,Garðabær
+2016,Heilbrigðismál,-5983000.0,Garðabær
+2017,Heilbrigðismál,-8851000.0,Garðabær
+2018,Heilbrigðismál,-6276000.0,Garðabær
+2019,Heilbrigðismál,-9363000.0,Garðabær
+2020,Heilbrigðismál,-11184000.0,Garðabær
+2021,Heilbrigðismál,-12360000.0,Garðabær
+2022,Heilbrigðismál,-14840000.0,Garðabær
+2013,Hreinlætismál,-39000000.0,Garðabær
+2014,Hreinlætismál,-35000000.0,Garðabær
+2015,Hreinlætismál,-37000000.0,Garðabær
+2016,Hreinlætismál,-41471000.0,Garðabær
+2017,Hreinlætismál,-81369000.0,Garðabær
+2018,Hreinlætismál,-103633000.0,Garðabær
+2019,Hreinlætismál,-86997000.0,Garðabær
+2020,Hreinlætismál,-100081000.0,Garðabær
+2021,Hreinlætismál,-43568000.0,Garðabær
+2022,Hreinlætismál,-35197000.0,Garðabær
+2013,"Lífeyrisskuldbinding, breyting",0.0,Garðabær
+2014,"Lífeyrisskuldbinding, breyting",0.0,Garðabær
+2015,"Lífeyrisskuldbinding, breyting",0.0,Garðabær
+2016,"Lífeyrisskuldbinding, breyting",-284565000.0,Garðabær
+2017,"Lífeyrisskuldbinding, breyting",-416631000.0,Garðabær
+2018,"Lífeyrisskuldbinding, breyting",-29052000.0,Garðabær
+2019,"Lífeyrisskuldbinding, breyting",-40019000.0,Garðabær
+2020,"Lífeyrisskuldbinding, breyting",-40019000.0,Garðabær
+2021,"Lífeyrisskuldbinding, breyting",-972730000.0,Garðabær
+2022,"Lífeyrisskuldbinding, breyting",-371658000.0,Garðabær
+2013,Menningarmál,-173000000.0,Garðabær
+2014,Menningarmál,-164000000.0,Garðabær
+2015,Menningarmál,-174000000.0,Garðabær
+2016,Menningarmál,-201782000.0,Garðabær
+2017,Menningarmál,-187908000.0,Garðabær
+2018,Menningarmál,-218194000.0,Garðabær
+2019,Menningarmál,-218448000.0,Garðabær
+2020,Menningarmál,-220722000.0,Garðabær
+2021,Menningarmál,-250816000.0,Garðabær
+2022,Menningarmál,-263566000.0,Garðabær
+2013,Sameiginlegur kostnaður,-557000000.0,Garðabær
+2014,Sameiginlegur kostnaður,-496000000.0,Garðabær
+2015,Sameiginlegur kostnaður,-512000000.0,Garðabær
+2016,Sameiginlegur kostnaður,-545400000.0,Garðabær
+2017,Sameiginlegur kostnaður,-574870000.0,Garðabær
+2018,Sameiginlegur kostnaður,-847318000.0,Garðabær
+2019,Sameiginlegur kostnaður,-935311000.0,Garðabær
+2020,Sameiginlegur kostnaður,-976281000.0,Garðabær
+2021,Sameiginlegur kostnaður,-730254000.0,Garðabær
+2022,Sameiginlegur kostnaður,-899257000.0,Garðabær
+2013,Skatttekjur,8271000000.0,Garðabær
+2014,Skatttekjur,8747000000.0,Garðabær
+2015,Skatttekjur,9434000000.0,Garðabær
+2016,Skatttekjur,10689431000.0,Garðabær
+2017,Skatttekjur,12014972000.0,Garðabær
+2018,Skatttekjur,12833447000.0,Garðabær
+2019,Skatttekjur,13655714000.0,Garðabær
+2020,Skatttekjur,14577321000.0,Garðabær
+2021,Skatttekjur,16341126000.0,Garðabær
+2022,Skatttekjur,17828194000.0,Garðabær
+2013,Skipulags- og byggingarmál,-156000000.0,Garðabær
+2014,Skipulags- og byggingarmál,-151000000.0,Garðabær
+2015,Skipulags- og byggingarmál,-221000000.0,Garðabær
+2016,Skipulags- og byggingarmál,-209076000.0,Garðabær
+2017,Skipulags- og byggingarmál,-235328000.0,Garðabær
+2018,Skipulags- og byggingarmál,-288494000.0,Garðabær
+2019,Skipulags- og byggingarmál,-357911000.0,Garðabær
+2020,Skipulags- og byggingarmál,-253995000.0,Garðabær
+2021,Skipulags- og byggingarmál,-273689000.0,Garðabær
+2022,Skipulags- og byggingarmál,-271410000.0,Garðabær
+2013,Umferðar- og samgöngumál,-461000000.0,Garðabær
+2014,Umferðar- og samgöngumál,-548000000.0,Garðabær
+2015,Umferðar- og samgöngumál,-659000000.0,Garðabær
+2016,Umferðar- og samgöngumál,-736341000.0,Garðabær
+2017,Umferðar- og samgöngumál,-836953000.0,Garðabær
+2018,Umferðar- og samgöngumál,-1036611000.0,Garðabær
+2019,Umferðar- og samgöngumál,-1138702000.0,Garðabær
+2020,Umferðar- og samgöngumál,-1224249000.0,Garðabær
+2021,Umferðar- og samgöngumál,-1320282000.0,Garðabær
+2022,Umferðar- og samgöngumál,-1708831000.0,Garðabær
+2013,Umhverfismál,-323000000.0,Garðabær
+2014,Umhverfismál,-347000000.0,Garðabær
+2015,Umhverfismál,-331000000.0,Garðabær
+2016,Umhverfismál,-354348000.0,Garðabær
+2017,Umhverfismál,-339009000.0,Garðabær
+2018,Umhverfismál,-394346000.0,Garðabær
+2019,Umhverfismál,-416777000.0,Garðabær
+2020,Umhverfismál,-573849000.0,Garðabær
+2021,Umhverfismál,-543871000.0,Garðabær
+2022,Umhverfismál,-557499000.0,Garðabær
+2013,Æskulýðs- og íþróttamál,-1112000000.0,Garðabær
+2014,Æskulýðs- og íþróttamál,-1189000000.0,Garðabær
+2015,Æskulýðs- og íþróttamál,-1341000000.0,Garðabær
+2016,Æskulýðs- og íþróttamál,-1420318000.0,Garðabær
+2017,Æskulýðs- og íþróttamál,-1480956000.0,Garðabær
+2018,Æskulýðs- og íþróttamál,-1674429000.0,Garðabær
+2019,Æskulýðs- og íþróttamál,-1940836000.0,Garðabær
+2020,Æskulýðs- og íþróttamál,-2086453000.0,Garðabær
+2021,Æskulýðs- og íþróttamál,-2241555000.0,Garðabær
+2022,Æskulýðs- og íþróttamál,-2643136000.0,Garðabær
+2013,Óvenjulegir liðir,-125000000.0,Garðabær
+2014,Óvenjulegir liðir,-198000000.0,Garðabær
+2015,Óvenjulegir liðir,-246000000.0,Garðabær
+2016,Óvenjulegir liðir,0.0,Garðabær
+2017,Óvenjulegir liðir,0.0,Garðabær
+2018,Óvenjulegir liðir,0.0,Garðabær
+2019,Óvenjulegir liðir,0.0,Garðabær
+2020,Óvenjulegir liðir,0.0,Garðabær
+2021,Óvenjulegir liðir,0.0,Garðabær
+2022,Óvenjulegir liðir,0.0,Garðabær
+2022,Atvinnumál,-252000.0,Mosfellsbær
+2021,Atvinnumál,-825000.0,Mosfellsbær
+2020,Atvinnumál,-661000.0,Mosfellsbær
+2019,Atvinnumál,-393000.0,Mosfellsbær
+2018,Atvinnumál,-3865000.0,Mosfellsbær
+2017,Atvinnumál,-8110000.0,Mosfellsbær
+2016,Atvinnumál,-5428000.0,Mosfellsbær
+2015,Atvinnumál,-7593000.0,Mosfellsbær
+2014,Atvinnumál,-7102000.0,Mosfellsbær
+2022,Brunamál og almannavarnir,-129045000.0,Mosfellsbær
+2021,Brunamál og almannavarnir,-116957000.0,Mosfellsbær
+2020,Brunamál og almannavarnir,-92728000.0,Mosfellsbær
+2019,Brunamál og almannavarnir,-83205000.0,Mosfellsbær
+2018,Brunamál og almannavarnir,-77582000.0,Mosfellsbær
+2017,Brunamál og almannavarnir,-73636000.0,Mosfellsbær
+2016,Brunamál og almannavarnir,-67179000.0,Mosfellsbær
+2015,Brunamál og almannavarnir,-65244000.0,Mosfellsbær
+2014,Brunamál og almannavarnir,-62998000.0,Mosfellsbær
+2022,Fjármunatekjur og fjármagnsgjöld,714854000.0,Mosfellsbær
+2021,Fjármunatekjur og fjármagnsgjöld,487775000.0,Mosfellsbær
+2020,Fjármunatekjur og fjármagnsgjöld,422954000.0,Mosfellsbær
+2019,Fjármunatekjur og fjármagnsgjöld,374185000.0,Mosfellsbær
+2018,Fjármunatekjur og fjármagnsgjöld,416388000.0,Mosfellsbær
+2017,Fjármunatekjur og fjármagnsgjöld,332730000.0,Mosfellsbær
+2016,Fjármunatekjur og fjármagnsgjöld,351816000.0,Mosfellsbær
+2015,Fjármunatekjur og fjármagnsgjöld,348298000.0,Mosfellsbær
+2014,Fjármunatekjur og fjármagnsgjöld,310699000.0,Mosfellsbær
+2022,Fræðslu- og uppeldismál,-7320028000.0,Mosfellsbær
+2021,Fræðslu- og uppeldismál,-6674354000.0,Mosfellsbær
+2020,Fræðslu- og uppeldismál,-6085739000.0,Mosfellsbær
+2019,Fræðslu- og uppeldismál,-5284274000.0,Mosfellsbær
+2018,Fræðslu- og uppeldismál,-4434699000.0,Mosfellsbær
+2017,Fræðslu- og uppeldismál,-3988330000.0,Mosfellsbær
+2016,Fræðslu- og uppeldismál,-3604000000.0,Mosfellsbær
+2015,Fræðslu- og uppeldismál,-3347904000.0,Mosfellsbær
+2014,Fræðslu- og uppeldismál,-2980792000.0,Mosfellsbær
+2022,Félagsþjónusta,-2843324000.0,Mosfellsbær
+2021,Félagsþjónusta,-2389359000.0,Mosfellsbær
+2020,Félagsþjónusta,-2098837000.0,Mosfellsbær
+2019,Félagsþjónusta,-1953350000.0,Mosfellsbær
+2018,Félagsþjónusta,-1660526000.0,Mosfellsbær
+2017,Félagsþjónusta,-1477377000.0,Mosfellsbær
+2016,Félagsþjónusta,-1382280000.0,Mosfellsbær
+2015,Félagsþjónusta,-1300417000.0,Mosfellsbær
+2014,Félagsþjónusta,-1268629000.0,Mosfellsbær
+2022,Heilbrigðismál,-9482000.0,Mosfellsbær
+2021,Heilbrigðismál,-13774000.0,Mosfellsbær
+2020,Heilbrigðismál,-17342000.0,Mosfellsbær
+2019,Heilbrigðismál,-14637000.0,Mosfellsbær
+2018,Heilbrigðismál,-13928000.0,Mosfellsbær
+2017,Heilbrigðismál,-14456000.0,Mosfellsbær
+2016,Heilbrigðismál,0.0,Mosfellsbær
+2015,Heilbrigðismál,0.0,Mosfellsbær
+2014,Heilbrigðismál,0.0,Mosfellsbær
+2022,Hreinlætismál,-13644000.0,Mosfellsbær
+2021,Hreinlætismál,-39510000.0,Mosfellsbær
+2020,Hreinlætismál,-53245000.0,Mosfellsbær
+2019,Hreinlætismál,-48425000.0,Mosfellsbær
+2018,Hreinlætismál,-37834000.0,Mosfellsbær
+2017,Hreinlætismál,-38309000.0,Mosfellsbær
+2016,Hreinlætismál,-23585000.0,Mosfellsbær
+2015,Hreinlætismál,-20376000.0,Mosfellsbær
+2014,Hreinlætismál,-31371000.0,Mosfellsbær
+2022,Lífeyrisskuldbinding,-273335000.0,Mosfellsbær
+2021,Lífeyrisskuldbinding,-556168000.0,Mosfellsbær
+2020,Lífeyrisskuldbinding,-292497000.0,Mosfellsbær
+2019,Lífeyrisskuldbinding,-160259000.0,Mosfellsbær
+2018,Lífeyrisskuldbinding,-122950000.0,Mosfellsbær
+2017,Lífeyrisskuldbinding,-412931000.0,Mosfellsbær
+2016,Lífeyrisskuldbinding,0.0,Mosfellsbær
+2015,Lífeyrisskuldbinding,0.0,Mosfellsbær
+2014,Lífeyrisskuldbinding,0.0,Mosfellsbær
+2022,Menningarmál,-192163000.0,Mosfellsbær
+2021,Menningarmál,-187540000.0,Mosfellsbær
+2020,Menningarmál,-179042000.0,Mosfellsbær
+2019,Menningarmál,-173780000.0,Mosfellsbær
+2018,Menningarmál,-156878000.0,Mosfellsbær
+2017,Menningarmál,-163748000.0,Mosfellsbær
+2016,Menningarmál,-139698000.0,Mosfellsbær
+2015,Menningarmál,-141952000.0,Mosfellsbær
+2014,Menningarmál,-144388000.0,Mosfellsbær
+2022,Sameiginlegur kostn.,-789490000.0,Mosfellsbær
+2021,Sameiginlegur kostn.,-611996000.0,Mosfellsbær
+2020,Sameiginlegur kostn.,-691371000.0,Mosfellsbær
+2019,Sameiginlegur kostn.,-550054000.0,Mosfellsbær
+2018,Sameiginlegur kostn.,-478232000.0,Mosfellsbær
+2017,Sameiginlegur kostn.,-408891000.0,Mosfellsbær
+2016,Sameiginlegur kostn.,-612819000.0,Mosfellsbær
+2015,Sameiginlegur kostn.,-496721000.0,Mosfellsbær
+2014,Sameiginlegur kostn.,-466764000.0,Mosfellsbær
+2022,Skatttekjur,13363730000.0,Mosfellsbær
+2021,Skatttekjur,11826685000.0,Mosfellsbær
+2020,Skatttekjur,10587770000.0,Mosfellsbær
+2019,Skatttekjur,10013143000.0,Mosfellsbær
+2018,Skatttekjur,8964311000.0,Mosfellsbær
+2017,Skatttekjur,8015595000.0,Mosfellsbær
+2016,Skatttekjur,7055507000.0,Mosfellsbær
+2015,Skatttekjur,6408453000.0,Mosfellsbær
+2014,Skatttekjur,5779402000.0,Mosfellsbær
+2022,Skipulags- og byggingarmál,-84143000.0,Mosfellsbær
+2021,Skipulags- og byggingarmál,-80048000.0,Mosfellsbær
+2020,Skipulags- og byggingarmál,-82649000.0,Mosfellsbær
+2019,Skipulags- og byggingarmál,-54559000.0,Mosfellsbær
+2018,Skipulags- og byggingarmál,-51314000.0,Mosfellsbær
+2017,Skipulags- og byggingarmál,-22948000.0,Mosfellsbær
+2016,Skipulags- og byggingarmál,-31699000.0,Mosfellsbær
+2015,Skipulags- og byggingarmál,-20855000.0,Mosfellsbær
+2014,Skipulags- og byggingarmál,-39696000.0,Mosfellsbær
+2022,Umferðar- og samgöngumál,-559187000.0,Mosfellsbær
+2021,Umferðar- og samgöngumál,-438380000.0,Mosfellsbær
+2020,Umferðar- og samgöngumál,-437412000.0,Mosfellsbær
+2019,Umferðar- og samgöngumál,-456042000.0,Mosfellsbær
+2018,Umferðar- og samgöngumál,-420272000.0,Mosfellsbær
+2017,Umferðar- og samgöngumál,-385600000.0,Mosfellsbær
+2016,Umferðar- og samgöngumál,-302972000.0,Mosfellsbær
+2015,Umferðar- og samgöngumál,-248250000.0,Mosfellsbær
+2014,Umferðar- og samgöngumál,-220370000.0,Mosfellsbær
+2022,Umhverfismál,-234444000.0,Mosfellsbær
+2021,Umhverfismál,-203450000.0,Mosfellsbær
+2020,Umhverfismál,-199464000.0,Mosfellsbær
+2019,Umhverfismál,-150823000.0,Mosfellsbær
+2018,Umhverfismál,-137494000.0,Mosfellsbær
+2017,Umhverfismál,-121859000.0,Mosfellsbær
+2016,Umhverfismál,-113642000.0,Mosfellsbær
+2015,Umhverfismál,-91677000.0,Mosfellsbær
+2014,Umhverfismál,-88232000.0,Mosfellsbær
+2022,Æskulýðs- og íþróttamál,-1458287000.0,Mosfellsbær
+2021,Æskulýðs- og íþróttamál,-1344878000.0,Mosfellsbær
+2020,Æskulýðs- og íþróttamál,-1227788000.0,Mosfellsbær
+2019,Æskulýðs- og íþróttamál,-1070016000.0,Mosfellsbær
+2018,Æskulýðs- og íþróttamál,-988631000.0,Mosfellsbær
+2017,Æskulýðs- og íþróttamál,-874235000.0,Mosfellsbær
+2016,Æskulýðs- og íþróttamál,-803081000.0,Mosfellsbær
+2015,Æskulýðs- og íþróttamál,-715481000.0,Mosfellsbær
+2014,Æskulýðs- og íþróttamál,-662313000.0,Mosfellsbær
+2022,Atvinnumál,-33664000.0,Hafnarfjörður
+2021,Atvinnumál,-33536000.0,Hafnarfjörður
+2020,Atvinnumál,-103707000.0,Hafnarfjörður
+2019,Atvinnumál,-59808000.0,Hafnarfjörður
+2018,Atvinnumál,-30939000.0,Hafnarfjörður
+2017,Atvinnumál,-14252000.0,Hafnarfjörður
+2016,Atvinnumál,-27099000.0,Hafnarfjörður
+2015,Atvinnumál,-17263000.0,Hafnarfjörður
+2014,Atvinnumál,-36402000.0,Hafnarfjörður
+2013,Atvinnumál,-71831000.0,Hafnarfjörður
+2012,Atvinnumál,-52269000.0,Hafnarfjörður
+2011,Atvinnumál,-25988000.0,Hafnarfjörður
+2010,Atvinnumál,-19054000.0,Hafnarfjörður
+2022,Breyting á lífeyrisskuldbindingu,0.0,Hafnarfjörður
+2021,Breyting á lífeyrisskuldbindingu,0.0,Hafnarfjörður
+2020,Breyting á lífeyrisskuldbindingu,-1961162000.0,Hafnarfjörður
+2019,Breyting á lífeyrisskuldbindingu,-682969000.0,Hafnarfjörður
+2018,Breyting á lífeyrisskuldbindingu,-985922000.0,Hafnarfjörður
+2017,Breyting á lífeyrisskuldbindingu,-1973285000.0,Hafnarfjörður
+2016,Breyting á lífeyrisskuldbindingu,-1651845000.0,Hafnarfjörður
+2015,Breyting á lífeyrisskuldbindingu,-1006592000.0,Hafnarfjörður
+2014,Breyting á lífeyrisskuldbindingu,-912929000.0,Hafnarfjörður
+2013,Breyting á lífeyrisskuldbindingu,-557323000.0,Hafnarfjörður
+2012,Breyting á lífeyrisskuldbindingu,-684700000.0,Hafnarfjörður
+2011,Breyting á lífeyrisskuldbindingu,-444534000.0,Hafnarfjörður
+2010,Breyting á lífeyrisskuldbindingu,-417598000.0,Hafnarfjörður
+2022,Brunamál og almannavarnir,-310074000.0,Hafnarfjörður
+2021,Brunamál og almannavarnir,-295754000.0,Hafnarfjörður
+2020,Brunamál og almannavarnir,-246929000.0,Hafnarfjörður
+2019,Brunamál og almannavarnir,-239617000.0,Hafnarfjörður
+2018,Brunamál og almannavarnir,-231207000.0,Hafnarfjörður
+2017,Brunamál og almannavarnir,-219085000.0,Hafnarfjörður
+2016,Brunamál og almannavarnir,-197057000.0,Hafnarfjörður
+2015,Brunamál og almannavarnir,-201931000.0,Hafnarfjörður
+2014,Brunamál og almannavarnir,-192578000.0,Hafnarfjörður
+2013,Brunamál og almannavarnir,-169139000.0,Hafnarfjörður
+2012,Brunamál og almannavarnir,-154106000.0,Hafnarfjörður
+2011,Brunamál og almannavarnir,-149068000.0,Hafnarfjörður
+2010,Brunamál og almannavarnir,-144174000.0,Hafnarfjörður
+2022,Fjármagnsliðir,0.0,Hafnarfjörður
+2021,Fjármagnsliðir,0.0,Hafnarfjörður
+2020,Fjármagnsliðir,-727887000.0,Hafnarfjörður
+2019,Fjármagnsliðir,484363000.0,Hafnarfjörður
+2018,Fjármagnsliðir,463540000.0,Hafnarfjörður
+2017,Fjármagnsliðir,317764000.0,Hafnarfjörður
+2016,Fjármagnsliðir,231595000.0,Hafnarfjörður
+2015,Fjármagnsliðir,451745000.0,Hafnarfjörður
+2014,Fjármagnsliðir,483168000.0,Hafnarfjörður
+2013,Fjármagnsliðir,605813000.0,Hafnarfjörður
+2012,Fjármagnsliðir,727758000.0,Hafnarfjörður
+2011,Fjármagnsliðir,705302000.0,Hafnarfjörður
+2010,Fjármagnsliðir,402021000.0,Hafnarfjörður
+2022,Fjármunatekjur og fjármagnsgjöld,100498000.0,Hafnarfjörður
+2021,Fjármunatekjur og fjármagnsgjöld,127812000.0,Hafnarfjörður
+2020,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2019,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2018,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2017,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2016,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2015,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2014,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2013,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2012,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2011,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2010,Fjármunatekjur og fjármagnsgjöld,0.0,Hafnarfjörður
+2022,Fræðslu- og uppeldismál,-16797266000.0,Hafnarfjörður
+2021,Fræðslu- og uppeldismál,-15325969000.0,Hafnarfjörður
+2020,Fræðslu- og uppeldismál,-14400763000.0,Hafnarfjörður
+2019,Fræðslu- og uppeldismál,-13333314000.0,Hafnarfjörður
+2018,Fræðslu- og uppeldismál,-12392765000.0,Hafnarfjörður
+2017,Fræðslu- og uppeldismál,-11176043000.0,Hafnarfjörður
+2016,Fræðslu- og uppeldismál,-10129036000.0,Hafnarfjörður
+2015,Fræðslu- og uppeldismál,-9813936000.0,Hafnarfjörður
+2014,Fræðslu- og uppeldismál,-8748086000.0,Hafnarfjörður
+2013,Fræðslu- og uppeldismál,-8072293000.0,Hafnarfjörður
+2012,Fræðslu- og uppeldismál,-7412306000.0,Hafnarfjörður
+2011,Fræðslu- og uppeldismál,-7159371000.0,Hafnarfjörður
+2010,Fræðslu- og uppeldismál,-7091973000.0,Hafnarfjörður
+2022,Félagsþjónusta,-7058379000.0,Hafnarfjörður
+2021,Félagsþjónusta,-5845670000.0,Hafnarfjörður
+2020,Félagsþjónusta,-5002596000.0,Hafnarfjörður
+2019,Félagsþjónusta,-4484714000.0,Hafnarfjörður
+2018,Félagsþjónusta,-3720806000.0,Hafnarfjörður
+2017,Félagsþjónusta,-3231423000.0,Hafnarfjörður
+2016,Félagsþjónusta,-2901191000.0,Hafnarfjörður
+2015,Félagsþjónusta,-2930474000.0,Hafnarfjörður
+2014,Félagsþjónusta,-2636843000.0,Hafnarfjörður
+2013,Félagsþjónusta,-2405749000.0,Hafnarfjörður
+2012,Félagsþjónusta,-2195388000.0,Hafnarfjörður
+2011,Félagsþjónusta,-1921095000.0,Hafnarfjörður
+2010,Félagsþjónusta,-1151009000.0,Hafnarfjörður
+2022,Heilbrigðismál,0.0,Hafnarfjörður
+2021,Heilbrigðismál,0.0,Hafnarfjörður
+2020,Heilbrigðismál,0.0,Hafnarfjörður
+2019,Heilbrigðismál,0.0,Hafnarfjörður
+2018,Heilbrigðismál,0.0,Hafnarfjörður
+2017,Heilbrigðismál,0.0,Hafnarfjörður
+2016,Heilbrigðismál,0.0,Hafnarfjörður
+2015,Heilbrigðismál,-64199000.0,Hafnarfjörður
+2014,Heilbrigðismál,-64199000.0,Hafnarfjörður
+2013,Heilbrigðismál,-64199000.0,Hafnarfjörður
+2012,Heilbrigðismál,-64199000.0,Hafnarfjörður
+2011,Heilbrigðismál,-61142000.0,Hafnarfjörður
+2010,Heilbrigðismál,-61142000.0,Hafnarfjörður
+2022,Hreinlætismál,35230000.0,Hafnarfjörður
+2021,Hreinlætismál,39149000.0,Hafnarfjörður
+2020,Hreinlætismál,-7583000.0,Hafnarfjörður
+2019,Hreinlætismál,-23729000.0,Hafnarfjörður
+2018,Hreinlætismál,-15471000.0,Hafnarfjörður
+2017,Hreinlætismál,-17583000.0,Hafnarfjörður
+2016,Hreinlætismál,-49780000.0,Hafnarfjörður
+2015,Hreinlætismál,-14897000.0,Hafnarfjörður
+2014,Hreinlætismál,-33305000.0,Hafnarfjörður
+2013,Hreinlætismál,-15695000.0,Hafnarfjörður
+2012,Hreinlætismál,-18942000.0,Hafnarfjörður
+2011,Hreinlætismál,-29885000.0,Hafnarfjörður
+2010,Hreinlætismál,-13936000.0,Hafnarfjörður
+2022,Lífeyrisskuldbinding og A deild Brú,-1930425000.0,Hafnarfjörður
+2021,Lífeyrisskuldbinding og A deild Brú,-1930425000.0,Hafnarfjörður
+2020,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2019,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2018,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2017,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2016,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2015,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2014,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2013,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2012,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2011,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2010,Lífeyrisskuldbinding og A deild Brú,0.0,Hafnarfjörður
+2022,Menningarmál,-630147000.0,Hafnarfjörður
+2021,Menningarmál,-524485000.0,Hafnarfjörður
+2020,Menningarmál,-508915000.0,Hafnarfjörður
+2019,Menningarmál,-464870000.0,Hafnarfjörður
+2018,Menningarmál,-428885000.0,Hafnarfjörður
+2017,Menningarmál,-403455000.0,Hafnarfjörður
+2016,Menningarmál,-364186000.0,Hafnarfjörður
+2015,Menningarmál,-375998000.0,Hafnarfjörður
+2014,Menningarmál,-357581000.0,Hafnarfjörður
+2013,Menningarmál,-327295000.0,Hafnarfjörður
+2012,Menningarmál,-314661000.0,Hafnarfjörður
+2011,Menningarmál,-298517000.0,Hafnarfjörður
+2010,Menningarmál,-308980000.0,Hafnarfjörður
+2022,Sameiginlegur kostnaður,-1942250000.0,Hafnarfjörður
+2021,Sameiginlegur kostnaður,-1887150000.0,Hafnarfjörður
+2020,Sameiginlegur kostnaður,-1416730000.0,Hafnarfjörður
+2019,Sameiginlegur kostnaður,-1252578000.0,Hafnarfjörður
+2018,Sameiginlegur kostnaður,-1118475000.0,Hafnarfjörður
+2017,Sameiginlegur kostnaður,-1013058000.0,Hafnarfjörður
+2016,Sameiginlegur kostnaður,-975693000.0,Hafnarfjörður
+2015,Sameiginlegur kostnaður,-863767000.0,Hafnarfjörður
+2014,Sameiginlegur kostnaður,-725783000.0,Hafnarfjörður
+2013,Sameiginlegur kostnaður,-724164000.0,Hafnarfjörður
+2012,Sameiginlegur kostnaður,-623253000.0,Hafnarfjörður
+2011,Sameiginlegur kostnaður,-671525000.0,Hafnarfjörður
+2010,Sameiginlegur kostnaður,-611920000.0,Hafnarfjörður
+2022,Skatttekjur,29580346000.0,Hafnarfjörður
+2021,Skatttekjur,26332980000.0,Hafnarfjörður
+2020,Skatttekjur,25332901000.0,Hafnarfjörður
+2019,Skatttekjur,24290487000.0,Hafnarfjörður
+2018,Skatttekjur,22875559000.0,Hafnarfjörður
+2017,Skatttekjur,21356188000.0,Hafnarfjörður
+2016,Skatttekjur,19377221000.0,Hafnarfjörður
+2015,Skatttekjur,16848851000.0,Hafnarfjörður
+2014,Skatttekjur,15975922000.0,Hafnarfjörður
+2013,Skatttekjur,15205051000.0,Hafnarfjörður
+2012,Skatttekjur,13676390000.0,Hafnarfjörður
+2011,Skatttekjur,12842801000.0,Hafnarfjörður
+2010,Skatttekjur,11157809000.0,Hafnarfjörður
+2022,Skipulags- og byggingarmál,-31506000.0,Hafnarfjörður
+2021,Skipulags- og byggingarmál,-65204000.0,Hafnarfjörður
+2020,Skipulags- og byggingarmál,-158030000.0,Hafnarfjörður
+2019,Skipulags- og byggingarmál,-112646000.0,Hafnarfjörður
+2018,Skipulags- og byggingarmál,-36476000.0,Hafnarfjörður
+2017,Skipulags- og byggingarmál,-51691000.0,Hafnarfjörður
+2016,Skipulags- og byggingarmál,-72325000.0,Hafnarfjörður
+2015,Skipulags- og byggingarmál,8190000.0,Hafnarfjörður
+2014,Skipulags- og byggingarmál,-118462000.0,Hafnarfjörður
+2013,Skipulags- og byggingarmál,-234477000.0,Hafnarfjörður
+2012,Skipulags- og byggingarmál,-93294000.0,Hafnarfjörður
+2011,Skipulags- og byggingarmál,-122485000.0,Hafnarfjörður
+2010,Skipulags- og byggingarmál,-103769000.0,Hafnarfjörður
+2022,Umferðar- og samgöngumál,-1130061000.0,Hafnarfjörður
+2021,Umferðar- og samgöngumál,-1058689000.0,Hafnarfjörður
+2020,Umferðar- og samgöngumál,-1038770000.0,Hafnarfjörður
+2019,Umferðar- og samgöngumál,-950400000.0,Hafnarfjörður
+2018,Umferðar- og samgöngumál,-911530000.0,Hafnarfjörður
+2017,Umferðar- og samgöngumál,-850258000.0,Hafnarfjörður
+2016,Umferðar- og samgöngumál,-784808000.0,Hafnarfjörður
+2015,Umferðar- og samgöngumál,-765172000.0,Hafnarfjörður
+2014,Umferðar- og samgöngumál,-748364000.0,Hafnarfjörður
+2013,Umferðar- og samgöngumál,-738878000.0,Hafnarfjörður
+2012,Umferðar- og samgöngumál,-442665000.0,Hafnarfjörður
+2011,Umferðar- og samgöngumál,-416402000.0,Hafnarfjörður
+2010,Umferðar- og samgöngumál,-371882000.0,Hafnarfjörður
+2022,Umhverfismál,-194606000.0,Hafnarfjörður
+2021,Umhverfismál,-186383000.0,Hafnarfjörður
+2020,Umhverfismál,-165848000.0,Hafnarfjörður
+2019,Umhverfismál,-145856000.0,Hafnarfjörður
+2018,Umhverfismál,-141933000.0,Hafnarfjörður
+2017,Umhverfismál,-138630000.0,Hafnarfjörður
+2016,Umhverfismál,-131328000.0,Hafnarfjörður
+2015,Umhverfismál,-79223000.0,Hafnarfjörður
+2014,Umhverfismál,-79223000.0,Hafnarfjörður
+2013,Umhverfismál,-79223000.0,Hafnarfjörður
+2012,Umhverfismál,-44683000.0,Hafnarfjörður
+2011,Umhverfismál,-33683000.0,Hafnarfjörður
+2010,Umhverfismál,-36606000.0,Hafnarfjörður
+2022,Æskulýðs- og íþróttamál,-2833811000.0,Hafnarfjörður
+2021,Æskulýðs- og íþróttamál,-2851934000.0,Hafnarfjörður
+2020,Æskulýðs- og íþróttamál,-2594444000.0,Hafnarfjörður
+2019,Æskulýðs- og íþróttamál,-2033166000.0,Hafnarfjörður
+2018,Æskulýðs- og íþróttamál,-1869428000.0,Hafnarfjörður
+2017,Æskulýðs- og íþróttamál,-1916485000.0,Hafnarfjörður
+2016,Æskulýðs- og íþróttamál,-1817887000.0,Hafnarfjörður
+2015,Æskulýðs- og íþróttamál,-1729891000.0,Hafnarfjörður
+2014,Æskulýðs- og íþróttamál,-1598836000.0,Hafnarfjörður
+2013,Æskulýðs- og íþróttamál,-1403429000.0,Hafnarfjörður
+2012,Æskulýðs- og íþróttamál,-1432943000.0,Hafnarfjörður
+2011,Æskulýðs- og íþróttamál,-1358477000.0,Hafnarfjörður
+2010,Æskulýðs- og íþróttamál,-1453465000.0,Hafnarfjörður
+2022,Óreglulegir liðir,0.0,Hafnarfjörður
+2021,Óreglulegir liðir,0.0,Hafnarfjörður
+2020,Óreglulegir liðir,3343812000.0,Hafnarfjörður
+2019,Óreglulegir liðir,0.0,Hafnarfjörður
+2018,Óreglulegir liðir,0.0,Hafnarfjörður
+2017,Óreglulegir liðir,0.0,Hafnarfjörður
+2016,Óreglulegir liðir,-215334000.0,Hafnarfjörður
+2015,Óreglulegir liðir,0.0,Hafnarfjörður
+2014,Óreglulegir liðir,-332786000.0,Hafnarfjörður
+2013,Óreglulegir liðir,0.0,Hafnarfjörður
+2012,Óreglulegir liðir,-1587400000.0,Hafnarfjörður
+2011,Óreglulegir liðir,0.0,Hafnarfjörður
+2010,Óreglulegir liðir,0.0,Hafnarfjörður
+2022,Atvinnumál,-80156000.0,Kópavogur
+2021,Atvinnumál,-93705000.0,Kópavogur
+2020,Atvinnumál,-49727000.0,Kópavogur
+2019,Atvinnumál,-47046000.0,Kópavogur
+2018,Atvinnumál,-61924000.0,Kópavogur
+2017,Atvinnumál,-19698000.0,Kópavogur
+2016,Atvinnumál,-21556000.0,Kópavogur
+2015,Atvinnumál,-57971000.0,Kópavogur
+2014,Atvinnumál,-49411000.0,Kópavogur
+2013,Atvinnumál,-136521000.0,Kópavogur
+2022,Aðrar A-hluta stofnanir,3053000.0,Kópavogur
+2021,Aðrar A-hluta stofnanir,1404000.0,Kópavogur
+2020,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2019,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2018,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2017,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2016,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2015,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2014,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2013,Aðrar A-hluta stofnanir,0.0,Kópavogur
+2022,Breyting lífeyrisskuldbindinga,-1156910000.0,Kópavogur
+2021,Breyting lífeyrisskuldbindinga,-593241000.0,Kópavogur
+2020,Breyting lífeyrisskuldbindinga,-545643000.0,Kópavogur
+2019,Breyting lífeyrisskuldbindinga,-89648000.0,Kópavogur
+2018,Breyting lífeyrisskuldbindinga,-1113350000.0,Kópavogur
+2017,Breyting lífeyrisskuldbindinga,-686828000.0,Kópavogur
+2016,Breyting lífeyrisskuldbindinga,-1213317000.0,Kópavogur
+2015,Breyting lífeyrisskuldbindinga,-468625000.0,Kópavogur
+2014,Breyting lífeyrisskuldbindinga,-588394000.0,Kópavogur
+2013,Breyting lífeyrisskuldbindinga,-189800000.0,Kópavogur
+2022,Brunamál og almannavarnir,-397117000.0,Kópavogur
+2021,Brunamál og almannavarnir,-346278000.0,Kópavogur
+2020,Brunamál og almannavarnir,-304432000.0,Kópavogur
+2019,Brunamál og almannavarnir,-287027000.0,Kópavogur
+2018,Brunamál og almannavarnir,-277885000.0,Kópavogur
+2017,Brunamál og almannavarnir,-263377000.0,Kópavogur
+2016,Brunamál og almannavarnir,-237638000.0,Kópavogur
+2015,Brunamál og almannavarnir,-230444000.0,Kópavogur
+2014,Brunamál og almannavarnir,-219453000.0,Kópavogur
+2013,Brunamál og almannavarnir,-191099000.0,Kópavogur
+2022,Eignasjóður,-712391000.0,Kópavogur
+2021,Eignasjóður,-148777000.0,Kópavogur
+2020,Eignasjóður,0.0,Kópavogur
+2019,Eignasjóður,0.0,Kópavogur
+2018,Eignasjóður,0.0,Kópavogur
+2017,Eignasjóður,0.0,Kópavogur
+2016,Eignasjóður,0.0,Kópavogur
+2015,Eignasjóður,0.0,Kópavogur
+2014,Eignasjóður,0.0,Kópavogur
+2013,Eignasjóður,0.0,Kópavogur
+2022,Fjármagnsliðir (nettó),1350177000.0,Kópavogur
+2021,Fjármagnsliðir (nettó),1011712000.0,Kópavogur
+2020,Fjármagnsliðir (nettó),910326000.0,Kópavogur
+2019,Fjármagnsliðir (nettó),630537000.0,Kópavogur
+2018,Fjármagnsliðir (nettó),463917000.0,Kópavogur
+2017,Fjármagnsliðir (nettó),166546000.0,Kópavogur
+2016,Fjármagnsliðir (nettó),397056000.0,Kópavogur
+2015,Fjármagnsliðir (nettó),186534000.0,Kópavogur
+2014,Fjármagnsliðir (nettó),1183232000.0,Kópavogur
+2013,Fjármagnsliðir (nettó),2721404000.0,Kópavogur
+2022,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2021,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2020,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2019,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2018,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2017,Framlög til B-hluta fyrirtækja,-42000000.0,Kópavogur
+2016,Framlög til B-hluta fyrirtækja,-35000000.0,Kópavogur
+2015,Framlög til B-hluta fyrirtækja,0.0,Kópavogur
+2014,Framlög til B-hluta fyrirtækja,0.0,Kópavogur
+2013,Framlög til B-hluta fyrirtækja,0.0,Kópavogur
+2022,Fræðslu- og uppeldismál,-19537999000.0,Kópavogur
+2021,Fræðslu- og uppeldismál,-18212071000.0,Kópavogur
+2020,Fræðslu- og uppeldismál,-17292654000.0,Kópavogur
+2019,Fræðslu- og uppeldismál,-16691460000.0,Kópavogur
+2018,Fræðslu- og uppeldismál,-15185706000.0,Kópavogur
+2017,Fræðslu- og uppeldismál,-13980163000.0,Kópavogur
+2016,Fræðslu- og uppeldismál,-13116689000.0,Kópavogur
+2015,Fræðslu- og uppeldismál,-11919410000.0,Kópavogur
+2014,Fræðslu- og uppeldismál,-10508072000.0,Kópavogur
+2013,Fræðslu- og uppeldismál,-9582619000.0,Kópavogur
+2022,Heilbrigðismál,-2160000.0,Kópavogur
+2021,Heilbrigðismál,-2071000.0,Kópavogur
+2020,Heilbrigðismál,-2016000.0,Kópavogur
+2019,Heilbrigðismál,-1954000.0,Kópavogur
+2018,Heilbrigðismál,-1899000.0,Kópavogur
+2017,Heilbrigðismál,-1835000.0,Kópavogur
+2016,Heilbrigðismál,-1764000.0,Kópavogur
+2015,Heilbrigðismál,-1680000.0,Kópavogur
+2014,Heilbrigðismál,-1674000.0,Kópavogur
+2013,Heilbrigðismál,-1648000.0,Kópavogur
+2022,Hreinlætismál,-93378000.0,Kópavogur
+2021,Hreinlætismál,-55073000.0,Kópavogur
+2020,Hreinlætismál,-22093000.0,Kópavogur
+2019,Hreinlætismál,14215000.0,Kópavogur
+2018,Hreinlætismál,7075000.0,Kópavogur
+2017,Hreinlætismál,-51254000.0,Kópavogur
+2016,Hreinlætismál,-40528000.0,Kópavogur
+2015,Hreinlætismál,9084000.0,Kópavogur
+2014,Hreinlætismál,11482000.0,Kópavogur
+2013,Hreinlætismál,-304000.0,Kópavogur
+2022,Menningarmál,-721456000.0,Kópavogur
+2021,Menningarmál,-684249000.0,Kópavogur
+2020,Menningarmál,-654703000.0,Kópavogur
+2019,Menningarmál,-624130000.0,Kópavogur
+2018,Menningarmál,-537014000.0,Kópavogur
+2017,Menningarmál,-519140000.0,Kópavogur
+2016,Menningarmál,-511389000.0,Kópavogur
+2015,Menningarmál,-455264000.0,Kópavogur
+2014,Menningarmál,-422326000.0,Kópavogur
+2013,Menningarmál,-383071000.0,Kópavogur
+2022,Sameiginlegur kostnaður,-1756811000.0,Kópavogur
+2021,Sameiginlegur kostnaður,-2120199000.0,Kópavogur
+2020,Sameiginlegur kostnaður,-1885238000.0,Kópavogur
+2019,Sameiginlegur kostnaður,-1798458000.0,Kópavogur
+2018,Sameiginlegur kostnaður,-1559566000.0,Kópavogur
+2017,Sameiginlegur kostnaður,-2172637000.0,Kópavogur
+2016,Sameiginlegur kostnaður,-1214870000.0,Kópavogur
+2015,Sameiginlegur kostnaður,-999044000.0,Kópavogur
+2014,Sameiginlegur kostnaður,-1042784000.0,Kópavogur
+2013,Sameiginlegur kostnaður,-897813000.0,Kópavogur
+2022,Skatttekjur,35243371000.0,Kópavogur
+2021,Skatttekjur,31052723000.0,Kópavogur
+2020,Skatttekjur,30990071000.0,Kópavogur
+2019,Skatttekjur,29352464000.0,Kópavogur
+2018,Skatttekjur,26968118000.0,Kópavogur
+2017,Skatttekjur,25289806000.0,Kópavogur
+2016,Skatttekjur,22765534000.0,Kópavogur
+2015,Skatttekjur,19708717000.0,Kópavogur
+2014,Skatttekjur,18059907000.0,Kópavogur
+2013,Skatttekjur,16887150000.0,Kópavogur
+2022,Skipulags- og byggingarmál,-295732000.0,Kópavogur
+2021,Skipulags- og byggingarmál,-281064000.0,Kópavogur
+2020,Skipulags- og byggingarmál,-178688000.0,Kópavogur
+2019,Skipulags- og byggingarmál,-173634000.0,Kópavogur
+2018,Skipulags- og byggingarmál,-124040000.0,Kópavogur
+2017,Skipulags- og byggingarmál,-120737000.0,Kópavogur
+2016,Skipulags- og byggingarmál,-119899000.0,Kópavogur
+2015,Skipulags- og byggingarmál,-198574000.0,Kópavogur
+2014,Skipulags- og byggingarmál,-147921000.0,Kópavogur
+2013,Skipulags- og byggingarmál,-104237000.0,Kópavogur
+2022,Umferðar- og samgöngumál,-1541914000.0,Kópavogur
+2021,Umferðar- og samgöngumál,-1377214000.0,Kópavogur
+2020,Umferðar- og samgöngumál,-1415322000.0,Kópavogur
+2019,Umferðar- og samgöngumál,-1211197000.0,Kópavogur
+2018,Umferðar- og samgöngumál,-1130852000.0,Kópavogur
+2017,Umferðar- og samgöngumál,-914370000.0,Kópavogur
+2016,Umferðar- og samgöngumál,-832189000.0,Kópavogur
+2015,Umferðar- og samgöngumál,-859311000.0,Kópavogur
+2014,Umferðar- og samgöngumál,-775284000.0,Kópavogur
+2013,Umferðar- og samgöngumál,-685053000.0,Kópavogur
+2022,Umhverfismál,-470510000.0,Kópavogur
+2021,Umhverfismál,-444238000.0,Kópavogur
+2020,Umhverfismál,-490097000.0,Kópavogur
+2019,Umhverfismál,-408875000.0,Kópavogur
+2018,Umhverfismál,-390354000.0,Kópavogur
+2017,Umhverfismál,-332133000.0,Kópavogur
+2016,Umhverfismál,-317187000.0,Kópavogur
+2015,Umhverfismál,-328825000.0,Kópavogur
+2014,Umhverfismál,-299237000.0,Kópavogur
+2013,Umhverfismál,-272619000.0,Kópavogur
+2022,Velferðarsvið,-5652018000.0,Kópavogur
+2021,Velferðarsvið,-4701880000.0,Kópavogur
+2020,Velferðarsvið,-4316345000.0,Kópavogur
+2019,Velferðarsvið,-3786695000.0,Kópavogur
+2018,Velferðarsvið,-3342337000.0,Kópavogur
+2017,Velferðarsvið,-2875148000.0,Kópavogur
+2016,Velferðarsvið,-2726774000.0,Kópavogur
+2015,Velferðarsvið,-1931152000.0,Kópavogur
+2014,Velferðarsvið,-1798723000.0,Kópavogur
+2013,Velferðarsvið,-1633634000.0,Kópavogur
+2022,Æskulýðs- og íþróttamál,-4065391000.0,Kópavogur
+2021,Æskulýðs- og íþróttamál,-3739251000.0,Kópavogur
+2020,Æskulýðs- og íþróttamál,-3604410000.0,Kópavogur
+2019,Æskulýðs- og íþróttamál,-3304692000.0,Kópavogur
+2018,Æskulýðs- og íþróttamál,-3053304000.0,Kópavogur
+2017,Æskulýðs- og íþróttamál,-2733696000.0,Kópavogur
+2016,Æskulýðs- og íþróttamál,-2569278000.0,Kópavogur
+2015,Æskulýðs- og íþróttamál,-2459275000.0,Kópavogur
+2014,Æskulýðs- og íþróttamál,-2265919000.0,Kópavogur
+2013,Æskulýðs- og íþróttamál,-1971462000.0,Kópavogur
+2022,Óvenjulegir liðir,0.0,Kópavogur
+2021,Óvenjulegir liðir,0.0,Kópavogur
+2020,Óvenjulegir liðir,0.0,Kópavogur
+2019,Óvenjulegir liðir,0.0,Kópavogur
+2018,Óvenjulegir liðir,0.0,Kópavogur
+2017,Óvenjulegir liðir,0.0,Kópavogur
+2016,Óvenjulegir liðir,0.0,Kópavogur
+2015,Óvenjulegir liðir,0.0,Kópavogur
+2014,Óvenjulegir liðir,0.0,Kópavogur
+2013,Óvenjulegir liðir,0.0,Kópavogur
+2022,Þjónustumiðstöð,-259748000.0,Kópavogur
+2021,Þjónustumiðstöð,-251779000.0,Kópavogur
+2020,Þjónustumiðstöð,0.0,Kópavogur
+2019,Þjónustumiðstöð,0.0,Kópavogur
+2018,Þjónustumiðstöð,0.0,Kópavogur
+2017,Þjónustumiðstöð,0.0,Kópavogur
+2016,Þjónustumiðstöð,0.0,Kópavogur
+2015,Þjónustumiðstöð,0.0,Kópavogur
+2014,Þjónustumiðstöð,0.0,Kópavogur
+2013,Þjónustumiðstöð,0.0,Kópavogur
+2022,Framlög til B-hluta fyrirtækja,-4382124.0,Reykjavík
+2021,Framlög til B-hluta fyrirtækja,-3863928.0,Reykjavík
+2020,Framlög til B-hluta fyrirtækja,-3501178.0,Reykjavík
+2019,Framlög til B-hluta fyrirtækja,-3277279.0,Reykjavík
+2018,Framlög til B-hluta fyrirtækja,-3107123.0,Reykjavík
+2017,Framlög til B-hluta fyrirtækja,-2895547.0,Reykjavík
+2016,Framlög til B-hluta fyrirtækja,-2723880.0,Reykjavík
+2015,Framlög til B-hluta fyrirtækja,-2686419.0,Reykjavík
+2014,Framlög til B-hluta fyrirtækja,-2585602.0,Reykjavík
+2013,Framlög til B-hluta fyrirtækja,-2418591.0,Reykjavík
+2022,Íþrótta- og tómstundasvið,-10392252.0,Reykjavík
+2021,Íþrótta- og tómstundasvið,-9441778.0,Reykjavík
+2020,Íþrótta- og tómstundasvið,-9272973.0,Reykjavík
+2019,Íþrótta- og tómstundasvið,-8299992.0,Reykjavík
+2018,Íþrótta- og tómstundasvið,-7672256.0,Reykjavík
+2017,Íþrótta- og tómstundasvið,-7327130.0,Reykjavík
+2016,Íþrótta- og tómstundasvið,-6707984.0,Reykjavík
+2015,Íþrótta- og tómstundasvið,-6466746.0,Reykjavík
+2014,Íþrótta- og tómstundasvið,-6155827.0,Reykjavík
+2013,Íþrótta- og tómstundasvið,-5621735.0,Reykjavík
+2022,Menningar- og ferðamálasvið,-6248206.0,Reykjavík
+2021,Menningar- og ferðamálasvið,-5921605.0,Reykjavík
+2020,Menningar- og ferðamálasvið,-5702653.0,Reykjavík
+2019,Menningar- og ferðamálasvið,-5000038.0,Reykjavík
+2018,Menningar- og ferðamálasvið,-4847556.0,Reykjavík
+2017,Menningar- og ferðamálasvið,-4560509.0,Reykjavík
+2016,Menningar- og ferðamálasvið,-4197627.0,Reykjavík
+2015,Menningar- og ferðamálasvið,-3999752.0,Reykjavík
+2014,Menningar- og ferðamálasvið,-3826606.0,Reykjavík
+2013,Menningar- og ferðamálasvið,-3532101.0,Reykjavík
+2022,Sameiginlegur kostnaður,-9522477.0,Reykjavík
+2021,Sameiginlegur kostnaður,-4545475.0,Reykjavík
+2020,Sameiginlegur kostnaður,-6514014.0,Reykjavík
+2019,Sameiginlegur kostnaður,-6819676.0,Reykjavík
+2018,Sameiginlegur kostnaður,-8205862.0,Reykjavík
+2017,Sameiginlegur kostnaður,-13697683.0,Reykjavík
+2016,Sameiginlegur kostnaður,-6953106.0,Reykjavík
+2015,Sameiginlegur kostnaður,-16914391.0,Reykjavík
+2014,Sameiginlegur kostnaður,-5557151.0,Reykjavík
+2013,Sameiginlegur kostnaður,-2519159.0,Reykjavík
+2022,Skatttekjur,131382128.0,Reykjavík
+2021,Skatttekjur,121392989.0,Reykjavík
+2020,Skatttekjur,112882738.0,Reykjavík
+2019,Skatttekjur,108716166.0,Reykjavík
+2018,Skatttekjur,101789373.0,Reykjavík
+2017,Skatttekjur,93801586.0,Reykjavík
+2016,Skatttekjur,84653427.0,Reykjavík
+2015,Skatttekjur,77024519.0,Reykjavík
+2014,Skatttekjur,71537079.0,Reykjavík
+2013,Skatttekjur,67529810.0,Reykjavík
+2022,Skóla- og frístundasvið,-69483429.0,Reykjavík
+2021,Skóla- og frístundasvið,-63701211.0,Reykjavík
+2020,Skóla- og frístundasvið,-58428099.0,Reykjavík
+2019,Skóla- og frístundasvið,-52970366.0,Reykjavík
+2018,Skóla- og frístundasvið,-49454970.0,Reykjavík
+2017,Skóla- og frístundasvið,-46273540.0,Reykjavík
+2016,Skóla- og frístundasvið,-42174306.0,Reykjavík
+2015,Skóla- og frístundasvið,-40443078.0,Reykjavík
+2014,Skóla- og frístundasvið,-37287048.0,Reykjavík
+2013,Skóla- og frístundasvið,-34052011.0,Reykjavík
+2022,Skrifstofur miðlægrar stjórnsýslu,-6749036.0,Reykjavík
+2021,Skrifstofur miðlægrar stjórnsýslu,-5832551.0,Reykjavík
+2020,Skrifstofur miðlægrar stjórnsýslu,-5303059.0,Reykjavík
+2019,Skrifstofur miðlægrar stjórnsýslu,-4702914.0,Reykjavík
+2018,Skrifstofur miðlægrar stjórnsýslu,-3642582.0,Reykjavík
+2017,Skrifstofur miðlægrar stjórnsýslu,-3166125.0,Reykjavík
+2016,Skrifstofur miðlægrar stjórnsýslu,-2810457.0,Reykjavík
+2015,Skrifstofur miðlægrar stjórnsýslu,-2744081.0,Reykjavík
+2014,Skrifstofur miðlægrar stjórnsýslu,-2581528.0,Reykjavík
+2013,Skrifstofur miðlægrar stjórnsýslu,-2323776.0,Reykjavík
+2022,Umhverfis- og skipulagssvið,-13067261.0,Reykjavík
+2021,Umhverfis- og skipulagssvið,-10617851.0,Reykjavík
+2020,Umhverfis- og skipulagssvið,-9642743.0,Reykjavík
+2019,Umhverfis- og skipulagssvið,-7508163.0,Reykjavík
+2018,Umhverfis- og skipulagssvið,-6854854.0,Reykjavík
+2017,Umhverfis- og skipulagssvið,-5812183.0,Reykjavík
+2016,Umhverfis- og skipulagssvið,-6469033.0,Reykjavík
+2015,Umhverfis- og skipulagssvið,-6463167.0,Reykjavík
+2014,Umhverfis- og skipulagssvið,-5987960.0,Reykjavík
+2013,Umhverfis- og skipulagssvið,-6143374.0,Reykjavík
+2022,Velferðarsvið,-40019468.0,Reykjavík
+2021,Velferðarsvið,-35347504.0,Reykjavík
+2020,Velferðarsvið,-31249651.0,Reykjavík
+2019,Velferðarsvið,-27310257.0,Reykjavík
+2018,Velferðarsvið,-24367585.0,Reykjavík
+2017,Velferðarsvið,-21964941.0,Reykjavík
+2016,Velferðarsvið,-20573602.0,Reykjavík
+2015,Velferðarsvið,-19841148.0,Reykjavík
+2014,Velferðarsvið,-18699685.0,Reykjavík
+2013,Velferðarsvið,-16493390.0,Reykjavík
